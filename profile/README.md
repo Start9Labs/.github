@@ -19,17 +19,9 @@ Cut out the middle men and take control of your data by running a personal serve
 
 ## Become Unstoppable
 
-### Become Bitcoin
-
-_Don't trust, verify_. Run a full Bitcoin node to verify transactions and enforce the consensus rules you choose.
-
-### Become Lightning
-
-_Not your keys, not your coins_. Run a Lightning node to take full control and custody over your Bitcoin on the rapidly-expanding Lightning Network.
-
-### Be Your Own Everything
-
-Anything you can do in the permissioned, subscription-based, privacy-invading, insecure model of cloud computing, you can also do in the open, free, private, secure model of sovereign computing
+- Become Bitcoin: _Don't trust, verify_. Run a full Bitcoin node to verify transactions and enforce the consensus rules you choose.
+- Become Lightning: _Not your keys, not your coins_. Run a Lightning node to take full control and custody over your Bitcoin on the rapidly-expanding Lightning Network.
+- Be Your Own Everything: Anything you can do in the permissioned, subscription-based, privacy-invading, insecure model of cloud computing, you can also do in the open, free, private, secure model of sovereign computing
 
 ## Powered By EmbassyOS (EOS)
 
