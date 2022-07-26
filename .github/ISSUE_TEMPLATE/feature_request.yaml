@@ -2,8 +2,6 @@ name: 💡 Feature Request
 description: Suggest an idea for this project
 title: '[feat]: '
 labels: [Enhancement, Needs Scoping]
-assignees:
-  - MattDHill
 body:
   - type: checkboxes
     attributes:
