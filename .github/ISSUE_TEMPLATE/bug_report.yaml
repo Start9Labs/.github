@@ -2,8 +2,6 @@ name: 🐛 Bug Report
 description: Create a report to help us improve
 title: '[bug]: '
 labels: [Bug, Needs Triage]
-assignees:
-  - MattDHill
 body:
   - type: checkboxes
     attributes:
