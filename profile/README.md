@@ -25,8 +25,6 @@ Cut out the middle men and take control of your data by running a personal serve
 
 ## Powered By EmbassyOS (EOS)
 
-In the past, running a server was only possible for highly technical people or those who could afford to hire them; namely software developers, corporations, wealthy individuals, and politicians. Start9 levels the playing field by making it possible for the rest of us.
-
 EmbassyOS (EOS) is a browser-based, graphical operating system for a personal server, designed to turn anyone into a system’s administrator capable of managing their own server.
 
 ## Get Help
