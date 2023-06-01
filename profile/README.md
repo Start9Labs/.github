@@ -23,9 +23,9 @@ Cut out the middle men and take control of your data by running a personal serve
 - Become Lightning: _Not your keys, not your coins_. Run a Lightning node to take full control and custody over your Bitcoin on the rapidly-expanding Lightning Network.
 - Be Your Own Everything: Anything you can do in the permissioned, subscription-based, privacy-invading, insecure model of cloud computing, you can also do in the open, free, private, secure model of sovereign computing
 
-## Powered By EmbassyOS (EOS)
+## Powered by StartOS
 
-EmbassyOS (EOS) is a browser-based, graphical operating system for a personal server, designed to turn anyone into a system’s administrator capable of managing their own server.
+StartOS is a browser-based, graphical operating system for a personal server, designed to turn anyone into a system’s administrator capable of managing their own server.
 
 ## Get Help
 
