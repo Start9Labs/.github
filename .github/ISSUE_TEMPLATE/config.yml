@@ -1,7 +1,4 @@
 contact_links:
-  - name: 📚 Documentation
-    url: https://github.com/start9labs/documentation
-    about: This issue tracker is not for documentation issues. Please file documentation issues on the Start9 Docs repo.
   - name: 🤔 Support Question
-    url: https://t.me/start9_labs
-    about: This issue tracker is not for support questions. Please post your question in our Telegram community channel.
+    url: https://start9.com
+    about: This issue tracker is not for support questions. Please post your question in our Telegram community channel, or go to Start9.com to speak with a live chat technician during most Western Hemisphere daylight hours.
