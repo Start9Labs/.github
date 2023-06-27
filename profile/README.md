@@ -11,7 +11,7 @@
 
 ## The Problem is Trust
 
-Whoever controls your data, controls you. App companies can see your pictures, read your documents, listen to your conversations, track your location, sell your private information, permanently delete your data, or cut you off at any time. Even if the companies behind these apps are not malicious, they are prime targets for hackers and are vulnerable to political winds.
+Whoever controls your data, controls you. App companies can see your pictures, read your documents, listen to your conversations, track your location, sell your private information, permanently delete your data, or cut you off at any time. Even if the companies behind these apps are not malicious, they are prime targets for hackers and also subject to political winds.
 
 ## Take Back Control
 
@@ -23,9 +23,9 @@ Cut out the middle men and take control of your data by running a personal serve
 - Become Lightning: _Not your keys, not your coins_. Run a Lightning node to take full control and custody over your Bitcoin on the rapidly-expanding Lightning Network.
 - Be Your Own Everything: Anything you can do in the permissioned, subscription-based, privacy-invading, insecure model of cloud computing, you can also do in the open, free, private, secure model of sovereign computing
 
-## Powered By EmbassyOS (EOS)
+## Powered By StartOS
 
-EmbassyOS (EOS) is a browser-based, graphical operating system for a personal server, designed to turn anyone into a system’s administrator capable of managing their own server.
+StartOS is a Linux-based operating system optimized for running a personal server. Just as Windows and MacOS made it possible for anyone to use a personal computer, StartOS makes it possible for anyone to run a personal server.
 
 ## Get Help
 
