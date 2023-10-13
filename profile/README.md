@@ -1,7 +1,7 @@
 # Welcome to Start9
 [![community](https://img.shields.io/badge/community-matrix-yellow)](https://matrix.to/#/#community:matrix.start9labs.com)
 [![community](https://img.shields.io/badge/community-telegram-informational)](https://t.me/start9_labs)
-[![support](https://img.shields.io/badge/support-docs-important)](https://docs.start9labs.com)
+[![support](https://img.shields.io/badge/support-docs-important)](https://docs.start9.com)
 [![developer](https://img.shields.io/badge/developer-matrix-blueviolet)](https://matrix.to/#/#community-dev:matrix.start9labs.com)
 [![website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fstart9labs.com)](https://start9labs.com)
 
