@@ -4,8 +4,6 @@
 [![support](https://img.shields.io/badge/support-docs-important)](https://docs.start9.com)
 [![developer](https://img.shields.io/badge/developer-matrix-blueviolet)](https://matrix.to/#/#community-dev:matrix.start9labs.com)
 [![website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fstart9labs.com)](https://start9labs.com)
-
-[![mastodon](https://img.shields.io/mastodon/follow/000000001?domain=https%3A%2F%2Fmastodon.start9labs.com&label=Follow&style=social)](http://mastodon.start9labs.com)
 [![twitter](https://img.shields.io/twitter/follow/start9labs?label=Follow)](https://twitter.com/start9labs)
 
 
